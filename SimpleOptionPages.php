@@ -10,7 +10,7 @@
  * @version		1.0.0
  */
 
-namespace Laborin\SimpleOptionPages
+namespace Laborin\SimpleOptionPages;
 
 class SimpleOptionPages {
 	/* ==========================================================================
