@@ -9,5 +9,10 @@
       "name": "Emmanuel laborin",
       "email": "laborin@gmail.com"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "Laborin\\SimpleOptionPages\\": "."
+    }
+  },
 }
