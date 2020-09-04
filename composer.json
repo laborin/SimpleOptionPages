@@ -1,0 +1,17 @@
+{
+  "name": "laborin/simpleoptionpages",
+  "description": "Simple WordPress Option Pages.",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require-dev": {
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Emmanuel laborin",
+      "email": "laborin@gmail.com"
+    }
+  ],
+  "require": {
+  },
+}

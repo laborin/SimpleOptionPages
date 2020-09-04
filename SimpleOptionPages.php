@@ -6,9 +6,12 @@
  * @package		SimpleOptionPages
  * @author		Emmanuel Laborin <laborin@gmail.com>
  * @copyright	Copyright (c) 2016
- * @link		http://laborin.com.mx
+ * @link		https://laborin.com.mx
  * @version		1.0.0
  */
+
+namespace Laborin\SimpleOptionPages
+
 class SimpleOptionPages {
 	/* ==========================================================================
 	   Vars
